@@ -1,0 +1,3 @@
+get clone (copy the copy the path )
+
+cd (then move to the get folder)
